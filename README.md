@@ -49,7 +49,7 @@ Assignment-02/
 
 ## GitHub Repository
 
-[View Assignment-02 on GitHub](https://github.com/YOUR-USERNAME/Assignment-02)
+[View Assignment-02 on GitHub](https://suryaksh4sure.github.io/Assignment-02/)
 
 ## Live Demo
 
